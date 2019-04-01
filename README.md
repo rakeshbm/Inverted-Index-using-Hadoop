@@ -7,7 +7,11 @@ Stanford WebBase project.
 Repository File Descriptions:
 
 InvertedIndex.java - A Java implementation of Map-Reduce algorithm for unigrams. <br />
+
 index.txt - Inverted Index output for selected unigrams. <br />
+
 log.txt - Logger output of the cluster job running InvertedIndex.java. <br />
+
 InvertedIndexBigrams.java - A Java implementation of Map-Reduce algorithm for bigrams. <br />
+
 index_bigrams.txt - Inverted Index output for selected bigrams. <br />
